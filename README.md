@@ -23,9 +23,10 @@
 
 ---
 
-## About
+## About & Warning
 
 WinESP32 is a retro-style operating system inspired by Windows Vista/7 for ESP32-P4 microcontroller with 480x800 touchscreen display. This is an experimental hobby project, not intended for production use.
+[![Telegram](https://img.shields.io/badge/Telegram-@ewinnery-blue?style=flat-square&logo=telegram)](https://t.me/ewinnery)
 
 ### Features
 
