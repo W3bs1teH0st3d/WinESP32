@@ -1,0 +1,25 @@
+## IDF Component Manager Manifest File
+## ESP32-P4 Winesp32 Kolhoz OS Dependencies
+
+dependencies:
+  # Touch driver
+  espressif/esp_lcd_touch: "^1.1.0"
+  
+  # LVGL port
+  espressif/esp_lvgl_port: "^2"
+  
+  # LittleFS filesystem
+  joltwallet/littlefs: "*"
+  
+  # WiFi через ESP32-C6 co-processor (ESP-Hosted)
+  espressif/esp_hosted: "*"
+  espressif/esp_wifi_remote: "*"
+  
+  # Camera OV02C10 via MIPI-CSI
+  # NOTE: esp_cam_sensor is provided as LOCAL component in components/esp_cam_sensor
+  # (copied from demo with OV02C10 support - registry version doesn't have it)
+  espressif/esp_video: "1.1.0"
+  espressif/esp_ipa: "~1.0.0"
+  
+  # JPEG for photo saving
+  espressif/esp_jpeg: "^1.3.1"

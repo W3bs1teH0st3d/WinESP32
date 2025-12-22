@@ -1,0 +1,22 @@
+idf_component_register(
+    SRCS 
+        "display/st7701_driver.cpp"
+        "display/st7701_lcd.cpp"
+        "display/esp_lcd_st7701.c"
+        "display/esp_lcd_st7701_mipi.c"
+        "display/esp_lcd_st7701_rgb.c"
+        "touch/gt911_driver.cpp"
+        "touch/gt911_touch.cpp"
+        "touch/esp_lcd_touch_gt911.c"
+    INCLUDE_DIRS 
+        "."
+        "display"
+        "touch"
+    REQUIRES 
+        esp_lcd
+        driver
+        esp_timer
+        esp_driver_i2c
+        esp_driver_ledc
+        espressif__esp_lcd_touch
+)
