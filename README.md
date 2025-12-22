@@ -124,7 +124,7 @@ Recovery mode allows system restore when something goes wrong.
 
 **JC4880P443C-I-W-Y** (recommended)
 
-[Buy on AliExpress](https://aliexpress.ru/item/1005007700028507.html)
+[Buy on AliExpress](https://aliexpress.ru/item/1005009673625472.html?sku_id=12000049827362735&spm=a2g2w.productlist.search_results.1.455c274eXRvMJC)
 
 | Spec | Value |
 |------|-------|
