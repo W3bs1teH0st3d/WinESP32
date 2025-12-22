@@ -101,15 +101,15 @@ WinESP32 is a retro-style operating system inspired by Windows Vista/7 for ESP32
 Recovery mode allows system restore when something goes wrong.
 
 ### How to enter:
-1. **On boot:** Hold BOOT button during power on
-2. **From system:** Triple press BOOT button
-3. **From lock screen:** Triple tap in the corner
+1. **3 Times boot:** Press boot button for 3 times (im idk how to use boot button fr, so not working)
+2. **From lock:** When you in lock screen, tap the left up corner 3 times, it will appear a message to boot
+3. **From system:** When you in system, go to setings > about > press 3 times ESP-IDF version
 
 ### Recovery options:
 - Reboot to normal mode
-- Factory reset
-- System info (memory, version)
-- Hardware diagnostics
+- Factory reset data (config reset)
+- System info (memory, version simple test) 
+- Console (idk why)
 
 ---
 
