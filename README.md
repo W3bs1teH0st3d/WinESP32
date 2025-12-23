@@ -265,10 +265,11 @@ RWinESP32/
 - [ ] Implement working brightness control
 - [ ] Fix battery level detection
 - [ ] Add full Cyrillic font support
-- [ ] Add music player
+- [x] Add AI Client
 - [ ] Add video player
 - [ ] Add more games
 - [ ] Implement OTA updates
+
 
 ---
 
