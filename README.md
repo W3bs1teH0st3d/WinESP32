@@ -73,6 +73,8 @@ WinESP32 is a retro-style operating system inspired by Windows Vista/7 for ESP32
 | Console | Command line interface |
 | JS IDE | JavaScript IDE (Duktape engine) |
 | Settings | System configuration |
+| WinAI (BETA) | Chat with AI model |
+| UnZero (BETA) | Maradeur |
 
 ### Games
 | Game | Description |
