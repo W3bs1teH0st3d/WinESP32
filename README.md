@@ -42,6 +42,19 @@ WinESP32 is a retro-style operating system inspired by Windows Vista/7 for ESP32
 
 ---
 
+### Supported ESP32 Models
+
+| ESP32 Model | Support |
+|---------|---------|
+| JC4880P443C-I-W-Y | ✅ Fully suported + Tested
+| JC4880P443C-I-W | ⚠️ No camera (only external)
+| CYD (FZ6591C) | ❌ Weak may lag
+| Any ESP32-S3 |  ❌ Weak may lag
+| ESP32-P4 only | ⚠️ No Wifi, BT
+| Other | ❌ Not tested, no testers
+
+---
+
 ## Applications
 
 ### Utilities
@@ -124,7 +137,7 @@ Recovery mode allows system restore when something goes wrong.
 </td>
 <td>
 
-**JC4880P443C-I-W-Y** (recommended)
+**JC4880P443C-I-W-Y** (recommended bcs fully supported)
 
 [Buy on AliExpress](https://aliexpress.ru/item/1005009673625472.html?sku_id=12000049827362735&spm=a2g2w.productlist.search_results.1.455c274eXRvMJC)
 
@@ -252,7 +265,7 @@ RWinESP32/
 
 ---
 
-## TODO
+## TODO IN NEXT UPDATE
 
 - [ ] Fix system performance and reduce lag
 - [ ] Fix UI layout issues across all apps
@@ -306,6 +319,6 @@ MIT License
 ---
 
 <p align="center">
-  <a href="https://github.com/user/WinESP32/issues">Report Bug</a> •
-  <a href="https://github.com/user/WinESP32/discussions">Discussions</a>
+  <a href="https://github.com/W3bs1teH0st3d/WinESP32/issues">Report Bug</a> •
+  <a href="https://github.com/W3bs1teH0st3d/WinESP32/discussions">Discussions</a>
 </p>
